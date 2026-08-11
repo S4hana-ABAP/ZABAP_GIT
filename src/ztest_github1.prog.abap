@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_GITHUB1.
 
-WRITE 'Hello GitHub'.
+WRITE 'Hello GitHub v2'.
